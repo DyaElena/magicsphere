@@ -1,1 +1,3 @@
-Hello world!
+## Magic sphere
+
+Magic sphere written in Python
